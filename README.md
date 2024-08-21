@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to Taft Student Recipes! It aims to provide students living in dorms and condos affordable recipes that they could cook under the budget. Moreover, this webpage is built upon the basics of HTML and adopts the brutalist web design style.
